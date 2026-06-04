@@ -6,7 +6,6 @@ The dashboard also highlights revenue and sales performance by product category,
 Additionally, customer demographics were analyzed through age-group segmentation. The findings show that the Middle-Aged customer group generates the highest revenue and sales, followed by Young Adults. These insights can help companies focus their marketing efforts on the most profitable customer segments.
 Interactive filters for Gender, Subscription Status, Category, and Shipping Type allow users to explore customer behavior from multiple perspectives and uncove deeper insights.
 # Tools & Technologies Used:
-i)Power BI,ii)Power Query,iii)DAX,iv)Data Modeling,v)Data Visualization,vi)python,vii)SQL, MYSQL, POSTGRESSQL
-This project demonstrates how business intelligence can be used to understand customer behavior, improve decision-making, and drive revenue growth through actionable insights.
+i)Power BI,ii)Power Query,iii)DAX,iv)Data Modeling,v)Data Visualization,vi)python,vii)SQL, MYSQL, POSTGRESSQL,This project demonstrates how business intelligence can be used to understand customer behavior, improve decision-making, and drive revenue growth through actionable insights.
 #PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization #Dashboard #CustomerAnalytics #DAX #PowerBIProjects #LinkedInProjects #DataScience
 "C:\Users\H246o\OneDrive\Desktop\Pictures\Screenshots\Screenshot 2026-06-05 004901.png"
