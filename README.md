@@ -8,4 +8,4 @@ Interactive filters for Gender, Subscription Status, Category, and Shipping Type
 # Tools & Technologies Used:
 i)Power BI,ii)Power Query,iii)DAX,iv)Data Modeling,v)Data Visualization,vi)python,vii)SQL, MYSQL, POSTGRESSQL,This project demonstrates how business intelligence can be used to understand customer behavior, improve decision-making, and drive revenue growth through actionable insights.
 #PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization #Dashboard #CustomerAnalytics #DAX #PowerBIProjects #LinkedInProjects #DataScience
-"C:\Users\H246o\OneDrive\Desktop\Pictures\Screenshots\Screenshot 2026-06-05 004901.png"
+<img width="1165" height="650" alt="image" src="https://github.com/user-attachments/assets/c1121754-0ab9-4562-bb72-95da37eeec49" />
